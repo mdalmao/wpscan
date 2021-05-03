@@ -238,4 +238,5 @@ The "wpscan" term is a registered trademark. This License does not grant the use
 
 EJemplos
 Fuerza BRUTA con WPSCAN
+
 wpscan —url http://example.com -U usuario —password /usr/share/wordlists/rockyou.txt
