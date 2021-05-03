@@ -234,3 +234,8 @@ Running WPScan against websites without prior mutual consent may be illegal in y
 ### 11. Trademark
 
 The "wpscan" term is a registered trademark. This License does not grant the use of the "wpscan" trademark or the use of the WPScan logo.
+
+
+EJemplos
+Fuerza BRUTA con WPSCAN
+wpscan —url http://example.com -U usuario —password /usr/share/wordlists/rockyou.txt
